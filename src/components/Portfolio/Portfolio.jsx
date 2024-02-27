@@ -56,13 +56,13 @@ const Portfolio = () => {
                     <p className="slide-text">Geovis Project</p>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <a href="" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/ericerraez/Games" target="_blank" rel="noopener noreferrer">
                         <img src={games} alt="My Games" />
                     </a>
                     <p className="slide-text">My Games</p>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <a href="" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/ericerraez/portfolio" target="_blank" rel="noopener noreferrer">
                         <img src={portfolio} alt="This Portfolio"/>
                     </a>
                     <p className="slide-text">This portfolio</p>
